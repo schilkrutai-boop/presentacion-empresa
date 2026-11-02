@@ -1,0 +1,421 @@
+{
+  "empresa": {
+    "nombre": "Scanavini",
+    "web": "https://www.scanavini.com",
+    "rubro": "Cerrajería",
+    "trabajador": "instalador",
+    "descripcion": "Cerraduras fabricadas en Chile hace más de 75 años. Instalamos digitales, de embutir, cerrojos y antipalanca.",
+    "comunas": [
+      "Las Condes",
+      "Providencia",
+      "Ñuñoa",
+      "Vitacura",
+      "Maipú"
+    ],
+    "comunas_total": 32,
+    "logo": "logo.svg",
+    "logo_claro": "logo-claro.svg",
+    "logo_fuente": "scanavini.com/images/logos/ (SVG oficial)",
+    "logo_en_oscuro": "chip",
+    "logo_en_naranja": "directo"
+  },
+  "angulo": "C · Mixto: vende e instala con un equipo chico",
+  "remitente": "benjamin",
+  "portada": {
+    "titular": "Cada instalación Scanavini, agendada, seguida y cobrada desde una app.",
+    "bajada": "Una propuesta para que el equipo de instaladores de Scanavini trabaje con Fixero: sus clientes ordenados en un solo tablero, y clientes nuevos que buscan cerrajero en la app."
+  },
+  "punto_de_partida": {
+    "eyebrow": "Lo que vimos de Scanavini",
+    "titulo": "Scanavini ya vende la instalación. La oportunidad está en todo lo que pasa después del carrito.",
+    "datos": [
+      {
+        "cifra": "75+",
+        "texto": "años fabricando cerraduras en Chile."
+      },
+      {
+        "cifra": "De por vida",
+        "texto": "la garantía de sus cerraduras."
+      },
+      {
+        "cifra": "8",
+        "texto": "servicios de instalación en su tienda online, de $25.000 a $70.000."
+      },
+      {
+        "cifra": "32",
+        "texto": "comunas de la Provincia de Santiago donde instala."
+      }
+    ],
+    "cita": {
+      "texto": "Luego de recibir el producto, agendaremos tu instalación.",
+      "fuente": "Ficha de instalación · tiendascanavini.cl"
+    },
+    "lista_titulo": "Después del pago, cada instalación necesita:",
+    "lista": [
+      {
+        "icono": "calendar-dots",
+        "texto": "Coordinar día y hora con el cliente."
+      },
+      {
+        "icono": "users-three",
+        "texto": "Elegir qué instalador va y avisarle dónde y cuándo."
+      },
+      {
+        "icono": "map-pin",
+        "texto": "Saber si llegó a tiempo y cuándo terminó."
+      },
+      {
+        "icono": "receipt",
+        "texto": "Acordar extras, cobrar y dejar respaldo del trabajo."
+      },
+      {
+        "icono": "lifebuoy",
+        "texto": "Responder dudas, reclamos y garantías."
+      }
+    ]
+  },
+  "fixero_rubro": {
+    "icono": "lock-key",
+    "titulo": "Cerrajería",
+    "texto": "Una de las categorías con urgencias (Quick Fix) desde el día uno."
+  },
+  "propuesta": {
+    "titulo": "Scanavini entra a Fixero como empresa verificada, con todos sus instaladores.",
+    "bajada": "Cada instalador usa la app Fixero Maestros en su celular. Los administradores de Scanavini ven y deciden todo desde «Mi empresa».",
+    "pilares": [
+      {
+        "icono": "kanban",
+        "titulo": "Ordena sus instalaciones",
+        "texto": "Las ventas de la tienda, del showroom o del teléfono se cargan en un tablero. Scanavini elige quién va y sigue cada visita."
+      },
+      {
+        "icono": "storefront",
+        "titulo": "Recibe clientes nuevos",
+        "texto": "Las personas que buscan cerrajero en Fixero, para urgencias, cambios de chapa o cotizaciones, llegan al equipo de Scanavini con el pago asegurado."
+      },
+      {
+        "icono": "seal-check",
+        "titulo": "Lleva su marca a cada puerta",
+        "texto": "Cada instalador aparece como «Empresa verificada · Scanavini», con un perfil de empresa con sus trabajos, precios y reseñas."
+      }
+    ]
+  },
+  "como_funciona": {
+    "titulo": "De la venta a la puerta, sin planillas.",
+    "telefonos": [
+      "tablero",
+      "tecnico"
+    ],
+    "pasos": [
+      {
+        "icono": "shopping-cart",
+        "titulo": "Entra el trabajo",
+        "texto": "Una venta de la tienda o el showroom que carga un administrador, o un pedido de Fixero."
+      },
+      {
+        "icono": "kanban",
+        "titulo": "Aparece en el tablero",
+        "texto": "Los próximos 14 días, cada trabajo con su hora, comuna y quién va, o «Sin asignar»."
+      },
+      {
+        "icono": "users-three",
+        "titulo": "Scanavini elige quién va",
+        "texto": "Primero las personas libres; las ocupadas se ven atenuadas, con el motivo."
+      },
+      {
+        "icono": "device-mobile",
+        "titulo": "El instalador lo recibe en su celular",
+        "texto": "Qué hacer, cuándo, dónde, el cliente y las instrucciones."
+      },
+      {
+        "icono": "check-circle",
+        "titulo": "Voy en camino · Llegué · Terminé",
+        "texto": "Los administradores reciben un aviso cuando llega y cuando termina."
+      }
+    ]
+  },
+  "telefonos": {
+    "tablero": {
+      "dias": [
+        {
+          "dia": "Lunes 9 nov",
+          "trabajos": [
+            {
+              "titulo": "Instalación cerradura digital",
+              "hora": "09:00 a 10:30",
+              "quien": "Rodrigo S.",
+              "comuna": "Las Condes",
+              "origen": "propio",
+              "estado": "terminado"
+            },
+            {
+              "titulo": "Cambio de cilindro",
+              "hora": "11:30 a 12:15",
+              "comuna": "Ñuñoa",
+              "origen": "fixero",
+              "estado": "sin_asignar"
+            },
+            {
+              "titulo": "Herraje antipalanca",
+              "hora": "15:00 a 16:30",
+              "quien": "Javier M.",
+              "comuna": "Providencia",
+              "origen": "propio",
+              "estado": "en_camino"
+            }
+          ]
+        },
+        {
+          "dia": "Martes 10 nov",
+          "trabajos": [
+            {
+              "titulo": "Cerradura de sobreponer eléctrica",
+              "hora": "10:00 a 11:30",
+              "quien": "Camila P.",
+              "comuna": "Maipú",
+              "origen": "propio",
+              "estado": "asignado"
+            }
+          ]
+        }
+      ]
+    },
+    "tecnico": {
+      "nombre": "Rodrigo",
+      "hoy": [
+        {
+          "titulo": "Instalación cerradura digital",
+          "hora": "09:00 a 10:30",
+          "direccion": "Av. Cristóbal Colón 4580, depto 1203",
+          "estado": "terminado"
+        },
+        {
+          "titulo": "Cerrojo de seguridad",
+          "hora": "13:00 a 14:00",
+          "direccion": "Los Leones 1340, Providencia",
+          "estado": "asignado"
+        }
+      ],
+      "manana": [
+        {
+          "titulo": "Cerradura de embutir con manillas",
+          "hora": "16:00 a 17:30",
+          "direccion": "La Reina",
+          "estado": "asignado"
+        }
+      ]
+    },
+    "perfil": {
+      "precios": [
+        {
+          "nombre": "Instalación cerradura digital",
+          "detalle": "Mano de obra",
+          "precio": "$70.000"
+        },
+        {
+          "nombre": "Instalación de cerrojo",
+          "detalle": "Mano de obra",
+          "precio": "$25.000"
+        }
+      ],
+      "equipo": [
+        {
+          "nombre": "Rodrigo S.",
+          "nota": "4,9"
+        }
+      ]
+    },
+    "cliente": {
+      "maestro": "Rodrigo S.",
+      "oficio": "Cerrajero",
+      "trabajo": "Instalación cerradura digital",
+      "hora": "10:24",
+      "insignia": "Empresa verificada · Scanavini",
+      "insignia_icono": "buildings"
+    }
+  },
+  "beneficios": {
+    "titulo": "Una oficina de instalaciones en el bolsillo.",
+    "items": [
+      {
+        "icono": "kanban",
+        "titulo": "Un tablero para todo",
+        "texto": "Los próximos 14 días: hora, quién va, comuna y si es «Tu cliente» o «Cliente de Fixero»."
+      },
+      {
+        "icono": "arrows-left-right",
+        "titulo": "Dos formas de trabajar",
+        "texto": "«La empresa asigna los trabajos» o «Cada técnico toma sus trabajos». Se cambia cuando quieran."
+      },
+      {
+        "icono": "bell-ringing",
+        "titulo": "Avisos de llegada y término",
+        "texto": "Saben cuándo llegó cada instalador y cuándo terminó, con su nota del trabajo."
+      },
+      {
+        "icono": "user-switch",
+        "titulo": "Cambiar quién va",
+        "texto": "Reasignan una visita hasta el momento en que el instalador sale a terreno."
+      },
+      {
+        "icono": "shield-check",
+        "titulo": "Cobro asegurado",
+        "texto": "En los pedidos de Fixero el cliente paga con tarjeta antes, y el dinero se libera al confirmar."
+      },
+      {
+        "icono": "bank",
+        "titulo": "Todo a la cuenta de la empresa",
+        "texto": "Lo que gana cada instalador llega a Scanavini. Solo los administradores retiran."
+      },
+      {
+        "icono": "file-text",
+        "titulo": "Cotizan como Scanavini",
+        "texto": "La oferta sale a nombre de la empresa, y eligen quién hará el trabajo."
+      },
+      {
+        "icono": "whatsapp-logo",
+        "titulo": "El equipo, en minutos",
+        "texto": "Invitan a varios celulares a la vez, y la app deja listo el mensaje de WhatsApp."
+      }
+    ]
+  },
+  "marca": {
+    "titulo": "Cada visita también vende Scanavini.",
+    "telefono": "perfil",
+    "puntos": [
+      {
+        "icono": "buildings",
+        "titulo": "Insignia en cada instalador",
+        "texto": "«Empresa verificada · Scanavini» en la tarjeta y el perfil de cada persona del equipo."
+      },
+      {
+        "icono": "storefront",
+        "titulo": "Perfil de empresa",
+        "texto": "Logo, descripción, fotos de trabajos, precios, comunas, calificación y el equipo completo."
+      },
+      {
+        "icono": "magnifying-glass",
+        "titulo": "La búsqueda llega a cerrajería",
+        "texto": "Quien escribe «chapa», «cerradura», «cilindro» o «me quedé afuera» encuentra a los cerrajeros de Fixero."
+      }
+    ]
+  },
+  "antes_despues": {
+    "titulo": "Cada instalación, antes y después de Fixero.",
+    "filas": [
+      {
+        "tema": "Agendar",
+        "hoy": "Correos y llamadas para encontrar día y hora",
+        "con_fixero": "Tablero de 14 días con quién va"
+      },
+      {
+        "tema": "Asignar",
+        "hoy": "Planillas o grupos de WhatsApp",
+        "con_fixero": "«¿Quién va?» con la disponibilidad real"
+      },
+      {
+        "tema": "Seguimiento",
+        "hoy": "Llamar al instalador para saber cómo va",
+        "con_fixero": "Avisos de «Llegó» y «Terminó»"
+      },
+      {
+        "tema": "Llegada",
+        "hoy": "La dirección en un mensaje",
+        "con_fixero": "Mapa con Waze o Google Maps"
+      },
+      {
+        "tema": "Extras",
+        "hoy": "Se conversan en la puerta",
+        "con_fixero": "Orden de trabajo aprobada en la app"
+      },
+      {
+        "tema": "Cobro",
+        "hoy": "Transferencias y cobranza",
+        "con_fixero": "Tarjeta, retenido hasta que el cliente confirma"
+      },
+      {
+        "tema": "Clientes nuevos",
+        "hoy": "Solo los que llegan a la tienda",
+        "con_fixero": "Más los que buscan cerrajero en Fixero"
+      }
+    ]
+  },
+  "seguridad": {
+    "titulo": "Quien entra a una casa con el nombre Scanavini está verificado.",
+    "tarjetas": [
+      "personas",
+      "empresa",
+      "codigo",
+      "apertura",
+      "reclamos",
+      "dinero"
+    ]
+  },
+  "reunion": {
+    "titulo": "En 30 minutos les mostramos cómo funcionaría Fixero en Scanavini.",
+    "mostraremos": [
+      {
+        "titulo": "La app en vivo",
+        "texto": "Una cuenta de prueba de Scanavini con su logo, sus instaladores y trabajos de ejemplo."
+      },
+      {
+        "titulo": "Un día de trabajo",
+        "texto": "Cómo entra una venta al tablero, quién va y cómo lo sigue el administrador."
+      },
+      {
+        "titulo": "Lo que ve el cliente",
+        "texto": "El perfil de Scanavini, el seguimiento del instalador y el pago protegido."
+      },
+      {
+        "titulo": "Cómo partir",
+        "texto": "Qué necesitamos de Scanavini y un piloto en las comunas donde ya instala."
+      }
+    ],
+    "ideas": [
+      {
+        "icono": "tag",
+        "titulo": "Precio fijo Scanavini",
+        "texto": "Las 8 instalaciones de su tienda en el catálogo de Precio fijo."
+      },
+      {
+        "icono": "certificate",
+        "titulo": "Instalador certificado",
+        "texto": "Un sello para quienes Scanavini capacita y certifica."
+      },
+      {
+        "icono": "link",
+        "titulo": "Agendar desde su tienda",
+        "texto": "Un enlace en la ficha de instalación para elegir día y hora en Fixero."
+      }
+    ]
+  },
+  "cierre": {
+    "titular": "Agendemos 30 minutos.",
+    "bajada": "Les mostramos la app en vivo con una cuenta de prueba de Scanavini y resolvemos sus dudas."
+  },
+  "fuentes": [
+    {
+      "dato": "75+ años fabricando cerraduras en Chile",
+      "url": "https://www.scanavini.com"
+    },
+    {
+      "dato": "Garantía de por vida",
+      "url": "https://www.scanavini.com"
+    },
+    {
+      "dato": "8 servicios de instalación, de $25.000 a $70.000",
+      "url": "https://tiendascanavini.cl"
+    },
+    {
+      "dato": "32 comunas de la Provincia de Santiago",
+      "url": "https://tiendascanavini.cl"
+    },
+    {
+      "dato": "Cita «Luego de recibir el producto, agendaremos tu instalación.»",
+      "url": "https://tiendascanavini.cl"
+    }
+  ],
+  "por_confirmar": [
+    "Ideas para conversar (precio fijo Scanavini, sello de instalador certificado, enlace desde la tienda): no están construidas."
+  ]
+}

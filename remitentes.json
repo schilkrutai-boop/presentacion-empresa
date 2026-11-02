@@ -1,0 +1,16 @@
+{
+  "benjamin": {
+    "nombre": "Benjamin Saiz",
+    "cargo": "Co-Founder · Fixero",
+    "telefono": "+56 9 8984 9857",
+    "correo": "benjamin@fixero.cl",
+    "agenda_url": ""
+  },
+  "nicol": {
+    "nombre": "Nicol Macchiavello",
+    "cargo": "Operations · Fixero",
+    "telefono": "+56 9 7154 2796",
+    "correo": "nmacchiavello@fixero.cl",
+    "agenda_url": ""
+  }
+}
