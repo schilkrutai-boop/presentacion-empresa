@@ -18,4 +18,4 @@ git -C ~/.claude/skills/presentacion-empresa pull
 
 Necesita Python 3 y Google Chrome. Cómo usarla, qué revisar antes de enviar una presentación y cómo cambiar la skill está en [LEEME.md](LEEME.md).
 
-El repo es privado porque `remitentes.json` tiene los datos de contacto de quien firma.
+Los datos de contacto de quien firma (nombre, cargo, teléfono y correo) están en `remitentes.json`.

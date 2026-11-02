@@ -20,7 +20,7 @@ Queda en `~/.claude/skills/presentacion-empresa/`. Abre una sesión nueva y ya e
 
 Necesita Python 3 (viene con el Mac) y Google Chrome instalado: Chrome se usa sin abrir ventanas para sacar el PDF y las capturas de revisión.
 
-**Desde GitHub** (así recibes las actualizaciones). Con acceso al repo privado:
+**Desde GitHub** (así recibes las actualizaciones):
 
 ```bash
 git clone https://github.com/schilkrutai-boop/presentacion-empresa.git ~/.claude/skills/presentacion-empresa
